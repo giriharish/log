@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user-box {
+  color: white;
+}
+
+.user-box a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+footer {
+  margin-bottom: 0;
+  margin-top: auto;
+  width: 100%;
+  text-align: center;
+}
